@@ -2,7 +2,7 @@
 const assert = require('assert');
 
 // We can group similar tests inside a describe block
-describe("Simple Calculations", () => {
+describe("Simple Calculations for testing", () => {
 before(() => {
 	console.log( "This part executes once before all tests " );
 });
